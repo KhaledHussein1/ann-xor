@@ -1,6 +1,6 @@
 # Simple XOR Neural Network Implementation
 
-Welcome to the Simple XOR Neural Network Implementation repository! This Python project demonstrates a basic artificial neural network (ANN) trained to solve the classic XOR problem.
+Welcome to the Simple XOR Neural Network Implementation repository! This Python project implements a simple artificial neural network (ANN) from scratch, trained to solve the classic XOR problem.
 
 ## Overview
 
