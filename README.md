@@ -22,7 +22,7 @@ To use the provided code:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python 3.x installed.
-3. Run the Python script `xor_neural_network.py`.
+3. Run the Python script `XOR_ANN.py`.
 4. View the predictions and accuracy of the trained model.
 
 ## Requirements
